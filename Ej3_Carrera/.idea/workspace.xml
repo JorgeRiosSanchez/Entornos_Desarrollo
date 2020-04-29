@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e60153b1-9f95-46cb-8a3f-61d3c8f745ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b2vDLYTwLoSdDQSsplzSRhXJg9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.politecnicomalaga" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Ej3_Carrera">
+    <configuration name="All in Ej3_Carrera" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ej3_Carrera" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarreraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ej3_Carrera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.politecnicomalaga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.politecnicomalaga" />
+      <option name="MAIN_CLASS_NAME" value="com.politecnicomalaga.CarreraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarreraTest.insertarParticipanteRepetidoSinExito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ej3_Carrera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.politecnicomalaga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.politecnicomalaga" />
+      <option name="MAIN_CLASS_NAME" value="com.politecnicomalaga.CarreraTest" />
+      <option name="METHOD_NAME" value="insertarParticipanteRepetidoSinExito" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarreraTest.listaNoVacía_addCuatroParticipantes_listaNoVacíaYParticipantesAñadidosConExito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ej3_Carrera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.politecnicomalaga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.politecnicomalaga" />
+      <option name="MAIN_CLASS_NAME" value="com.politecnicomalaga.CarreraTest" />
+      <option name="METHOD_NAME" value="listaNoVacía_addCuatroParticipantes_listaNoVacíaYParticipantesAñadidosConExito" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Ej3_Carrera" />
+        <item itemvalue="JUnit.CarreraTest.insertarParticipanteRepetidoSinExito" />
+        <item itemvalue="JUnit.CarreraTest.listaNoVacía_addCuatroParticipantes_listaNoVacíaYParticipantesAñadidosConExito" />
+        <item itemvalue="JUnit.CarreraTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60153b1-9f95-46cb-8a3f-61d3c8f745ad" name="Default Changelist" comment="" />
+      <created>1587842881152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587842881152</updated>
+      <workItem from="1587842885251" duration="6969000" />
+      <workItem from="1587891294709" duration="4127000" />
+      <workItem from="1587912297037" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587848933064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587848933064" />
+    <state x="730" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1587895070128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587895070128" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1587912458667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587912458667" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587895382994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587895382994" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587895382994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587895382994" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587895382994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587895382994" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587895382994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587895382994" />
+    <state width="1877" height="233" key="GridCell.Tab.1.bottom" timestamp="1587893770386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587893770386" />
+    <state width="1877" height="233" key="GridCell.Tab.1.center" timestamp="1587893770385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587893770385" />
+    <state width="1877" height="233" key="GridCell.Tab.1.left" timestamp="1587893770385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587893770385" />
+    <state width="1877" height="233" key="GridCell.Tab.1.right" timestamp="1587893770385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587893770385" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1587842927641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587842927641" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587844562350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587844562350" />
+    <state x="342" y="215" key="new project wizard" timestamp="1587912493598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587912493598" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587848259867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587848259867" />
+  </component>
+</project>
